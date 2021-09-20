@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCodeKataSample", "DotNetCodeKataSample\DotNetCodeKataSample.csproj", "{77F1B47A-AF03-49BA-AEC8-673F856193CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverTripLibrary", "DriverTripLibrary\DriverTripLibrary.csproj", "{2109FDD6-5B77-4381-A0D2-EFA659F763BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F1B47A-AF03-49BA-AEC8-673F856193CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F1B47A-AF03-49BA-AEC8-673F856193CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F1B47A-AF03-49BA-AEC8-673F856193CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F1B47A-AF03-49BA-AEC8-673F856193CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2109FDD6-5B77-4381-A0D2-EFA659F763BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2109FDD6-5B77-4381-A0D2-EFA659F763BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2109FDD6-5B77-4381-A0D2-EFA659F763BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2109FDD6-5B77-4381-A0D2-EFA659F763BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6EB4311-E5E2-4CC6-927D-9C34B389E126}
+	EndGlobalSection
+EndGlobal
