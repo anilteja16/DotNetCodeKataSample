@@ -1,0 +1,9 @@
+C:\My Data\Prep Projects\DotNetCodeKataSample\DriverTripLibrary\obj\Debug\netstandard2.0\DriverTripLibrary.csprojAssemblyReference.cache
+C:\My Data\Prep Projects\DotNetCodeKataSample\DriverTripLibrary\obj\Debug\netstandard2.0\DriverTripLibrary.AssemblyInfoInputs.cache
+C:\My Data\Prep Projects\DotNetCodeKataSample\DriverTripLibrary\obj\Debug\netstandard2.0\DriverTripLibrary.AssemblyInfo.cs
+C:\My Data\Prep Projects\DotNetCodeKataSample\DriverTripLibrary\obj\Debug\netstandard2.0\DriverTripLibrary.csproj.CoreCompileInputs.cache
+C:\My Data\Prep Projects\DotNetCodeKataSample\DriverTripLibrary\bin\Debug\netstandard2.0\DriverTripLibrary.deps.json
+C:\My Data\Prep Projects\DotNetCodeKataSample\DriverTripLibrary\bin\Debug\netstandard2.0\DriverTripLibrary.dll
+C:\My Data\Prep Projects\DotNetCodeKataSample\DriverTripLibrary\bin\Debug\netstandard2.0\DriverTripLibrary.pdb
+C:\My Data\Prep Projects\DotNetCodeKataSample\DriverTripLibrary\obj\Debug\netstandard2.0\DriverTripLibrary.dll
+C:\My Data\Prep Projects\DotNetCodeKataSample\DriverTripLibrary\obj\Debug\netstandard2.0\DriverTripLibrary.pdb
