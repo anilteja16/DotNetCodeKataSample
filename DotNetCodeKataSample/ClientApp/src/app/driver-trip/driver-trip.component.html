@@ -1,0 +1,24 @@
+<h1 id="tableLabel">Driver-Trip Data</h1>
+
+<p>This component calculates trip details corresponding to each driver, based on input ReadMe text.</p>
+
+<p *ngIf="!drivers"><em>Loading...</em></p>
+
+<input type="file" (change)="onChange($event.target.files)">
+
+<div>
+  <h3>Input File Content</h3>
+  <pre> {{fileContent}} </pre>
+</div>
+
+<button class="btn btn-primary" (click)="onProcessClick()">Process Input File</button>
+
+<div>
+  <h3>Output of Formatted Driver details</h3>
+</div>
+
+<div class='drivers'>
+  <ul>
+    <li *ngFor="let driver of drivers">{{driver.name}}<span>&#58;</span> {{driver.miles}} miles <span>&#64;</span> {{driver.avgSpeed}} mph</li>
+  </ul>
+</div>
